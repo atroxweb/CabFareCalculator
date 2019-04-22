@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fare Cost Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Enter distance in Km to calculate your aproximat cab fare</string>
+    <string name="calculate">Calculate</string>
+    <string name="zipcode">BY ZIP CODE</string>
+    <string name="address">BY ADDRESS</string>
+    <string name="city">BY CITY</string>
+    <string name="editText1">Distance in Km</string>
+    <string name="answer">Distance not entered yet!</string>
+    <string name="title_activity_zip">ZipActivity</string>
+    <string name="title_activity_city">MainActivity</string>
+    <string name="title_activity_address">AddressActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_distance">DistanceActivity</string>
+    <string name="title_activity_result">MainActivity</string>
+
+</resources>
